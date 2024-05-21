@@ -1,5 +1,6 @@
 ﻿using System;
 
+//Cannot be used on earth... 
 namespace Lense
 {
 	public class EmptyClass
