@@ -5,3 +5,5 @@ This lenses results in infinite field of view with no background. If you see a b
 Options would be to mine the object for 2^45 eons or fracture it using a 2^965643343436 amount of datacenter space drones or bases over time.
 
 Have AI and RTS bots!
+
+If no lenses can be made just write a (black,black,black) image processor for cpu
