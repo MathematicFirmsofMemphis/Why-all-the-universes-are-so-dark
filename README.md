@@ -7,3 +7,4 @@ Options would be to mine the object for 2^45 eons or fracture it using a 2^96564
 Have AI and RTS bots!
 
 If no lenses can be made just write a (black,black,black) image processor for cpu
+//Added how a bette description of the darkness is called a shadow image
