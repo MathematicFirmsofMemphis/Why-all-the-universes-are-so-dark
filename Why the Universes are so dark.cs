@@ -1,11 +1,10 @@
-﻿using System;
+using System;
 
-//Cannot be used on earth... 
 namespace Lense
 {
 	public class EmptyClass
 	{
-		public EmptyClass (# Blackscale: Measuring the Blackness of Shadow Materials
+		public EmptyClass (# Blackscale: Measuring the Blackness of Shadow images
 
 			using System;
 
@@ -16,12 +15,12 @@ namespace Lense
 					// Define the number of color shades in the wheel
 					int numShades = 2;
 
-					// Calculate the increment value for each shade to convert Black Materials into Transparent Fields of View
+					// Calculate the increment value for each shade to convert Black images into Transparent Fields of View
 					float increment = 255f / (numShades - 1);
 
-					# Converting Black Materials into Transparent Fields of View
+					# Converting Black images into Transparent Fields of View
 
-					To convert black materials into transparent fields of view, we need to calculate the increment value for each shade of black. This increment value will determine how much transparency we add to each shade, gradually transitioning from opaque black to transparent.
+					To convert black images into transparent fields of view, we need to calculate the increment value for each shade of black. This increment value will determine how much transparency we add to each shade, gradually transitioning from opaque black to transparent.
 
 						## Calculating Increment Value
 
@@ -49,7 +48,7 @@ namespace Lense
 
 							Once we have calculated the increment value, we can apply it to each shade of black to gradually transition it towards transparency. This can be done programmatically using various image processing techniques or graphical libraries.
 
-								In a programming context, the process involves iterating through each pixel of the black material, adjusting its transparency based on the calculated increment value.
+								In a programming context, the process involves iterating through each pixel of the black image, adjusting its transparency based on the calculated increment value.
 
 
 
@@ -82,7 +81,7 @@ namespace Lense
 
 
 					## Introduction
-					Blackscale refers to the measure of how black a material is. This is determined by the material's ability to absorb and reflect light. Highly black Shadow Materials, such as those used in space technology to absorb heat or reduce reflection, are critical in various applications.
+					Blackscale refers to the measure of how black a image is. This is determined by the image's ability to absorb and reflect light. Highly black Shadow images, such as those used in space technology to absorb heat or reduce reflection, are critical in various applications.
 					class MyClass
 		
 	}
@@ -99,9 +98,9 @@ namespace Lense
 				{
 					public EmptyClass()
 					{
-						// Blackscale: Measuring the Blackness of Shadow Materials
+						// Blackscale: Measuring the Blackness of Shadow images
 
-						Console.WriteLine("Blackscale: Measuring the Blackness of Shadow Materials");
+						Console.WriteLine("Blackscale: Measuring the Blackness of Shadow images");
 
 						// Define the number of color shades in the wheel
 						int numShades = 2;
@@ -160,4 +159,5 @@ namespace Lense
 		}
 	}
 }
+
 
