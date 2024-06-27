@@ -10,13 +10,13 @@ namespace BlackscaleImaging
             string inputImagePath = "input.jpg"; // Path to the input image
             string outputImagePath = "output.jpg"; // Path to save the blackscale image
 
-            // Load the input image
+            // Load the input lense
             Bitmap bitmap = new Bitmap(inputImagePath);
 
             // Convert to blackscale
             Bitmap blackscaleBitmap = ConvertToBlackscale(bitmap);
 
-            // Save the blackscale image
+            // Save the blackscale lense
             blackscaleBitmap.Save(outputImagePath);
 
             Console.WriteLine("Blackscale image saved successfully.");
